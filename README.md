@@ -240,5 +240,4 @@ The same analytical patterns translate directly to **logistics operations center
 ## 📬 Connect
 
 **Loknadh Venkata Krishna Sai Kona**
-MS Data Science · University of Memphis (GPA: 3.81, Dec 2025)
 🔗 [LinkedIn](https://linkedin.com/in/lvkrishna3/) · 🐙 [GitHub](https://github.com/KrishnaSai315)
