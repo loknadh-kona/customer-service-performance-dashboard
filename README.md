@@ -6,7 +6,7 @@
 
 ## 🎬 Live Demo
 
-https://github.com/KrishnaSai315/customer-service-performance-dashboard/assets/demo/20260511_045941.mp4
+https://github.com/KrishnaSai315/customer-service-performance-dashboard/assets/Dashboard_demo.mp4
 
 > *Watch the interactive slicer in action — click any representative and watch all KPIs, charts, and the regional revenue table update instantly in real time.*
 
@@ -14,7 +14,7 @@ https://github.com/KrishnaSai315/customer-service-performance-dashboard/assets/d
 
 ## 📸 Full Dashboard
 
-![Full Dashboard](assets/Dashboard_demo.mp4)
+![Full Dashboard](assets/dashboard_preview.png)
 
 ---
 
