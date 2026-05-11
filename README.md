@@ -14,7 +14,7 @@ https://github.com/KrishnaSai315/customer-service-performance-dashboard/assets/d
 
 ## 📸 Full Dashboard
 
-![Full Dashboard](assets/dashboard_preview.png)
+![Full Dashboard](assets/Dashboard_demo.mp4)
 
 ---
 
