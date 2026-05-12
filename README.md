@@ -99,7 +99,7 @@ Five executive-level metric cards that update dynamically based on the represent
 
 ### 📈 Peak Call Volumes — Monthly Trend & Day-of-Week
 
-![Peak Call Volumes](assets/peak_call_volumes_trend_monhtly_and_Toatal_number_of_call_in_a_day.png)
+![Peak Call Volumes](assets/peak_call_volumes_trend_monhtly_and_Toatal_number_of_call_in_a_day.png.png)
 
 **Monthly Trend (Area Chart):** March and April peak at **40 calls each** — the highest volume months of the year. Volume drops sharply in July–August, signaling a seasonal demand pattern critical for workforce capacity planning.
 
